@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Region,Segment
+C001,Alpha Co,North,Enterprise
+C002,Beta Ltd,South,SMB
+C003,Gamma Inc,East,Enterprise
+C004,Delta LLC,West,SMB
+C005,Epsilon PLC,North,SMB
+C006,Zeta Group,East,Enterprise
+C007,Eta Solutions,South,SMB
+C008,Theta Tech,West,Enterprise
+C009,Iota Systems,North,SMB
+C010,Kappa Works,East,Enterprise
+C011,Lambda Corp,South,SMB
+C012,Mu Services,West,Enterprise
+C013,Nu Products,North,SMB
+C014,Xi International,South,Enterprise
+C015,Omicron Holdings,West,SMB
+C016,Pi Dynamics,North,Enterprise
+C017,Rho Networks,East,SMB
+C018,Sigma Logistics,South,Enterprise
+C019,Tau Ventures,West,SMB
+C020,Upsilon Tech,East,Enterprise

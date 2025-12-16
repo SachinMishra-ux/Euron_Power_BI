@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Widget A,Gadgets,45
+P002,Widget B,Gadgets,60
+P003,Widget C,Gizmos,80
+P004,Gizmo X,Gizmos,120
+P005,Gizmo Y,Gizmos,150
+P006,Device 01,Devices,200
+P007,Device 02,Devices,180
+P008,Device 03,Devices,210
+P009,Gadget Pro,Gadgets,90
+P010,Gadget Mini,Gadgets,30
+P011,Tech Plus,Devices,230
+P012,Tech Basic,Devices,150
+P013,Tool Set 1,Tools,70
+P014,Tool Set 2,Tools,90
+P015,Tool Pro,Tools,130
+P016,Accessory A,Accessories,15
+P017,Accessory B,Accessories,20
+P018,Accessory C,Accessories,25
+P019,Gizmo Z,Gizmos,160
+P020,Widget D,Gadgets,155

@@ -1,0 +1,151 @@
+Order ID,Order Date,Customer Name,Region,Country,City,Category,Sub-Category,Sales Amount,Quantity,Discount %,Profit,Order Priority,Customer Segment,Sales Rep,Remarks
+ORD-1001,2023-07-05,Customer 15,North,Australia,Melbourne,Office Supplies,Paper,305.89,9,,291.65,High,Consumer,Rep-1,Urgent
+ORD-1002,2023-07-11,Customer 6,North,UK,Birmingham,Technology,Laptop,2797.06,6,0.0,400.82,High,Home Office,Rep-1,Delayed
+ORD-1003,2023-12-06,Customer 49,South,Australia,Brisbane,Furniture,Chair,1429.87,7,,236.15,High,Consumer,Rep-3,Delayed
+ORD-1004,2023-09-05,Customer 33,,Canada,Toronto,Furniture,Chair,1385.89,4,,486.1,High,Corporate,Rep-4,Returned
+ORD-1005,2024-01-19,Customer 32,East,USA,Chicago,Furniture,Table,1536.67,3,5.0,485.46,Low,Consumer,Rep-5,Delayed
+ORD-1006,2023-11-20,Customer 47,,Canada,Vancouver,Furniture,Chair,1493.8,4,0.0,388.89,High,Home Office,Rep-3,Returned
+ORD-1007,2024-02-01,Customer 13,North,Canada,Vancouver,Office Supplies,Binder,332.02,6,10.0,103.58,Medium,Home Office,Rep-6,
+ORD-1008,2023-10-10,Customer 1,,Australia,Melbourne,Furniture,Table,2610.91,3,0.0,-334.99,Low,Home Office,Rep-7,
+ORD-1009,2023-01-18,Customer 6,South,USA,Chicago,Office Supplies,Storage,2633.23,9,0.0,-236.33,Medium,Corporate,Rep-6,
+ORD-1010,2024-01-12,Customer 34,West,Canada,Toronto,Furniture,Bookcase,2226.51,4,,636.67,High,Consumer,Rep-6,
+ORD-1011,2023-03-05,Customer 29,North,UK,Manchester,Office Supplies,Storage,598.7,1,5.0,488.74,Medium,Corporate,Rep-1,
+,2023-02-12,Customer 33,East,Canada,Montreal,Furniture,Table,1489.89,8,10.0,325.81,Medium,Corporate,Rep-6,Urgent
+ORD-1013,2023-06-03,Customer 50,South,USA,San Francisco,Technology,Laptop,1352.51,3,0.0,377.65,Low,Home Office,Rep-5,Returned
+ORD-1014,2023-04-11,Customer 26,,Canada,Toronto,Technology,Mobile,1191.03,7,10.0,732.53,Medium,Consumer,Rep-3,Urgent
+ORD-1015,2023-01-10,Customer 47,North,Australia,Sydney,Technology,Laptop,341.38,6,5.0,-482.31,Low,Consumer,Rep-1,
+ORD-1016,2024-01-02,Customer 43,,Australia,Melbourne,Furniture,Table,366.68,8,0.0,25.9,Low,Consumer,Rep-7,Urgent
+ORD-1017,2023-03-09,Customer 8,South,Canada,Vancouver,Furniture,Chair,680.85,2,,609.84,Low,Corporate,Rep-4,Delayed
+ORD-1018,2023-05-03,Customer 27,North,Australia,Sydney,Technology,Mobile,2321.85,2,0.0,937.88,Medium,Home Office,Rep-1,Delayed
+ORD-1019,2023-11-08,Customer 21,West,UK,London,Technology,Laptop,750.44,9,5.0,730.99,Low,Home Office,Rep-6,Urgent
+ORD-1020,2023-03-10,Customer 47,East,India,Bangalore,Office Supplies,Storage,2033.49,9,5.0,484.68,High,Home Office,Rep-5,Delayed
+ORD-1021,2023-07-03,Customer 40,East,India,Mumbai,Furniture,Chair,2177.76,2,10.0,-222.66,High,Consumer,Rep-4,Delayed
+ORD-1022,2023-01-22,Customer 3,West,Australia,Sydney,Technology,Mobile,1362.2,5,0.0,527.36,Medium,Corporate,Rep-6,Returned
+ORD-1023,2023-08-16,Customer 18,South,Canada,Montreal,Furniture,Bookcase,979.34,3,,978.65,Low,Consumer,Rep-1,Delayed
+,2023-07-15,Customer 33,East,India,Delhi,Furniture,Bookcase,2274.46,2,5.0,186.4,High,Corporate,Rep-4,Urgent
+ORD-1025,2023-04-22,Customer 9,East,Canada,Montreal,Technology,Accessories,1779.38,1,10.0,572.77,Low,Corporate,Rep-3,Returned
+ORD-1026,2023-03-21,Customer 53,South,Australia,Melbourne,Technology,Mobile,1710.76,5,0.0,537.54,High,Home Office,Rep-6,Urgent
+ORD-1027,2023-06-24,Customer 15,,Canada,Vancouver,Office Supplies,Storage,1817.54,6,5.0,-252.53,Medium,Consumer,Rep-4,Returned
+ORD-1028,2023-11-27,Customer 5,West,UK,London,Furniture,Bookcase,831.24,8,10.0,-91.61,Low,Consumer,Rep-3,
+ORD-1029,2023-01-21,Customer 30,South,Australia,Sydney,Technology,Mobile,399.96,2,0.0,644.61,Low,Home Office,Rep-1,Returned
+ORD-1030,2023-01-01,Customer 1,East,Australia,Sydney,Furniture,Bookcase,1640.22,7,0.0,734.67,Medium,Home Office,Rep-6,
+ORD-1031,2023-01-12,Customer 54,,Australia,Brisbane,Technology,Laptop,1441.63,8,5.0,749.31,Low,Consumer,Rep-7,Returned
+ORD-1032,2023-09-03,Customer 5,West,USA,New York,Office Supplies,Paper,675.37,5,,467.81,Low,Corporate,Rep-4,Urgent
+ORD-1033,2023-11-29,Customer 2,South,India,Delhi,Office Supplies,Binder,1458.29,7,10.0,229.35,High,Corporate,Rep-2,Returned
+ORD-1034,2023-11-16,Customer 23,East,Australia,Melbourne,Office Supplies,Paper,1661.4,4,5.0,610.97,High,Consumer,Rep-5,Urgent
+ORD-1035,2023-09-16,Customer 15,East,India,Bangalore,Furniture,Bookcase,1295.42,8,10.0,-496.06,High,Consumer,Rep-4,Delayed
+,2023-04-14,Customer 59,,USA,New York,Furniture,Chair,1209.01,7,,587.53,High,Home Office,Rep-4,Delayed
+ORD-1037,2023-03-31,Customer 54,South,Canada,Montreal,Office Supplies,Paper,1951.02,8,10.0,942.9,High,Home Office,Rep-4,Returned
+ORD-1038,2023-02-22,Customer 18,,UK,Birmingham,Furniture,Table,1300.3,6,10.0,310.23,Low,Corporate,Rep-6,
+ORD-1039,2023-03-21,Customer 54,,India,Bangalore,Technology,Laptop,1159.93,1,0.0,-331.68,High,Home Office,Rep-4,Urgent
+ORD-1040,2024-01-23,Customer 39,,USA,New York,Office Supplies,Paper,2975.84,8,5.0,819.23,Low,Corporate,Rep-3,Delayed
+ORD-1041,2023-12-20,Customer 38,,Australia,Sydney,Office Supplies,Binder,2770.9,2,,553.47,Low,Consumer,Rep-7,Delayed
+ORD-1042,2023-02-02,Customer 53,West,India,Bangalore,Furniture,Table,2475.93,5,0.0,57.92,Medium,Home Office,Rep-2,Returned
+ORD-1043,2023-11-28,Customer 56,North,Canada,Toronto,Office Supplies,Paper,1614.67,4,,911.38,Low,Corporate,Rep-1,
+ORD-1044,2023-08-18,Customer 14,North,UK,London,Office Supplies,Binder,542.61,4,,-295.87,Medium,Consumer,Rep-6,Returned
+ORD-1045,2023-03-27,Customer 26,West,Canada,Toronto,Technology,Accessories,1216.07,2,10.0,74.1,Low,Home Office,Rep-5,
+ORD-1046,2023-03-13,Customer 51,,India,Bangalore,Technology,Mobile,2882.43,1,10.0,-193.62,High,Home Office,Rep-4,Delayed
+ORD-1047,2023-03-07,Customer 21,East,Australia,Sydney,Technology,Laptop,1570.57,9,5.0,702.32,Low,Corporate,Rep-1,Delayed
+,2023-08-10,Customer 15,East,USA,New York,Furniture,Table,1462.16,7,5.0,-476.13,Low,Corporate,Rep-6,Urgent
+ORD-1049,2023-05-01,Customer 18,North,Canada,Montreal,Office Supplies,Storage,2125.53,2,,458.28,High,Home Office,Rep-7,
+ORD-1050,2023-11-07,Customer 11,North,USA,New York,Technology,Mobile,1837.21,8,,3.81,Low,Consumer,Rep-3,Delayed
+ORD-1051,2023-10-05,Customer 17,West,India,Mumbai,Technology,Mobile,765.07,4,10.0,52.61,High,Corporate,Rep-1,
+ORD-1052,2023-05-03,Customer 40,West,India,Delhi,Office Supplies,Binder,577.36,1,10.0,860.56,High,Corporate,Rep-7,Returned
+ORD-1053,2023-11-21,Customer 46,,UK,Birmingham,Furniture,Chair,855.15,1,5.0,901.83,Medium,Corporate,Rep-3,
+ORD-1054,2023-11-07,Customer 25,East,UK,Manchester,Furniture,Table,1998.04,7,5.0,502.47,Low,Consumer,Rep-2,
+ORD-1055,2023-01-03,Customer 32,South,UK,Birmingham,Technology,Laptop,1401.86,7,5.0,557.82,High,Corporate,Rep-3,Delayed
+ORD-1056,2023-11-25,Customer 39,South,Canada,Vancouver,Furniture,Bookcase,1877.94,8,0.0,718.45,Low,Home Office,Rep-1,
+ORD-1057,2023-07-18,Customer 35,North,India,Delhi,Office Supplies,Storage,498.7,7,0.0,501.79,Low,Consumer,Rep-2,Urgent
+ORD-1058,2023-05-16,Customer 8,East,UK,Birmingham,Technology,Mobile,989.62,1,5.0,921.65,Medium,Corporate,Rep-6,
+ORD-1059,2023-01-17,Customer 16,East,India,Mumbai,Furniture,Chair,1265.58,4,10.0,386.97,Medium,Home Office,Rep-1,
+,2023-09-13,Customer 44,South,Canada,Montreal,Technology,Mobile,1924.67,8,,745.04,Low,Corporate,Rep-7,Returned
+ORD-1061,2024-02-03,Customer 8,East,USA,San Francisco,Furniture,Bookcase,817.92,9,0.0,203.3,Medium,Home Office,Rep-1,Returned
+ORD-1062,2023-05-08,Customer 43,North,USA,San Francisco,Furniture,Bookcase,1872.4,2,5.0,332.26,Low,Consumer,Rep-2,
+ORD-1063,2024-01-25,Customer 32,East,Australia,Sydney,Office Supplies,Paper,113.64,4,,-170.97,Medium,Corporate,Rep-2,
+ORD-1064,2023-06-13,Customer 5,East,UK,London,Furniture,Chair,402.64,4,0.0,-306.63,Low,Corporate,Rep-4,Urgent
+ORD-1065,2023-07-19,Customer 2,West,Canada,Vancouver,Office Supplies,Storage,951.27,1,0.0,550.48,High,Home Office,Rep-5,Urgent
+ORD-1066,2023-06-03,Customer 29,East,Australia,Sydney,Office Supplies,Binder,2357.7,7,5.0,-150.76,Low,Consumer,Rep-6,Returned
+ORD-1067,2023-10-20,Customer 23,,UK,Birmingham,Furniture,Bookcase,504.94,5,,-284.61,Medium,Home Office,Rep-6,Delayed
+ORD-1068,2023-10-29,Customer 50,,Australia,Brisbane,Furniture,Chair,2019.92,3,,-57.45,Low,Home Office,Rep-6,Delayed
+ORD-1069,2023-06-06,Customer 51,North,India,Bangalore,Technology,Accessories,288.74,8,0.0,167.89,Low,Consumer,Rep-1,Delayed
+ORD-1070,2023-06-18,Customer 3,West,UK,Birmingham,Technology,Mobile,1509.9,7,0.0,585.2,Low,Consumer,Rep-4,Delayed
+ORD-1071,2023-02-22,Customer 34,East,Australia,Melbourne,Technology,Accessories,1012.05,9,,279.97,High,Home Office,Rep-4,Returned
+,2023-01-27,Customer 31,South,USA,San Francisco,Office Supplies,Binder,1204.21,8,,475.29,Low,Home Office,Rep-1,Urgent
+ORD-1073,2023-10-14,Customer 16,West,Australia,Sydney,Office Supplies,Paper,1614.34,1,5.0,110.69,Low,Corporate,Rep-4,Returned
+ORD-1074,2024-01-07,Customer 26,East,India,Mumbai,Furniture,Chair,2102.96,6,5.0,152.26,Low,Consumer,Rep-4,Urgent
+ORD-1075,2023-10-25,Customer 9,North,USA,Chicago,Office Supplies,Binder,352.14,8,0.0,822.72,High,Corporate,Rep-4,Delayed
+ORD-1076,2023-08-28,Customer 57,North,USA,New York,Furniture,Table,1874.44,1,10.0,653.51,High,Corporate,Rep-1,
+ORD-1077,2023-08-09,Customer 34,South,Canada,Vancouver,Furniture,Table,1914.85,7,,-497.44,Low,Home Office,Rep-6,Delayed
+ORD-1078,2023-06-16,Customer 55,West,Canada,Montreal,Furniture,Chair,395.21,7,5.0,589.93,High,Corporate,Rep-7,Delayed
+ORD-1079,2023-03-25,Customer 43,,USA,San Francisco,Furniture,Chair,1290.11,4,0.0,317.36,Medium,Corporate,Rep-2,Delayed
+ORD-1080,2023-02-08,Customer 1,,USA,Chicago,Office Supplies,Binder,59.95,7,0.0,-242.47,High,Corporate,Rep-6,Delayed
+ORD-1081,2023-11-15,Customer 31,South,Australia,Melbourne,Technology,Mobile,1924.32,2,10.0,-431.41,Medium,Consumer,Rep-1,
+ORD-1082,2023-05-13,Customer 7,,India,Delhi,Office Supplies,Paper,1629.9,7,,-51.76,Medium,Home Office,Rep-4,
+ORD-1083,2023-05-24,Customer 46,West,India,Bangalore,Office Supplies,Binder,844.74,6,5.0,353.95,Medium,Corporate,Rep-3,Urgent
+,2023-07-07,Customer 41,,Australia,Brisbane,Technology,Accessories,1697.99,8,0.0,776.46,High,Consumer,Rep-6,Urgent
+ORD-1085,2023-05-07,Customer 10,East,UK,Birmingham,Furniture,Chair,360.62,3,10.0,197.15,Low,Corporate,Rep-1,Returned
+ORD-1086,2023-11-02,Customer 47,,India,Mumbai,Office Supplies,Paper,346.97,8,,904.21,Low,Corporate,Rep-6,Urgent
+ORD-1087,2023-08-05,Customer 4,South,India,Mumbai,Office Supplies,Binder,2452.03,9,10.0,976.1,Medium,Corporate,Rep-1,Urgent
+ORD-1088,2023-03-22,Customer 3,North,Australia,Brisbane,Technology,Accessories,2312.16,1,10.0,-366.13,Low,Corporate,Rep-4,
+ORD-1089,2023-07-11,Customer 32,North,USA,New York,Technology,Laptop,1933.97,1,5.0,738.87,Medium,Home Office,Rep-5,Urgent
+ORD-1090,2023-12-27,Customer 22,North,Canada,Montreal,Technology,Mobile,2329.63,8,10.0,-55.87,Medium,Corporate,Rep-7,
+ORD-1091,2023-10-10,Customer 6,West,USA,Chicago,Technology,Accessories,569.15,7,5.0,56.18,High,Consumer,Rep-6,Returned
+ORD-1092,2023-04-20,Customer 44,,India,Mumbai,Technology,Accessories,604.96,6,0.0,772.17,Low,Corporate,Rep-6,Urgent
+ORD-1093,2023-07-02,Customer 26,North,UK,Birmingham,Technology,Mobile,863.1,1,0.0,-455.62,High,Home Office,Rep-3,
+ORD-1094,2024-01-28,Customer 2,South,Australia,Melbourne,Furniture,Bookcase,1821.25,5,,884.77,High,Corporate,Rep-2,Urgent
+ORD-1095,2023-08-31,Customer 43,,UK,Manchester,Office Supplies,Binder,1019.53,6,0.0,-416.48,High,Home Office,Rep-1,Delayed
+,2023-10-30,Customer 33,South,USA,Chicago,Office Supplies,Binder,98.52,1,0.0,289.23,Medium,Consumer,Rep-2,
+ORD-1097,2023-08-04,Customer 35,,India,Bangalore,Office Supplies,Storage,2867.31,4,0.0,686.25,High,Corporate,Rep-1,Delayed
+ORD-1098,2023-05-23,Customer 9,,USA,Chicago,Furniture,Chair,213.11,8,,-235.78,Low,Corporate,Rep-1,Returned
+ORD-1099,2023-03-26,Customer 4,,Canada,Montreal,Office Supplies,Paper,978.67,7,0.0,857.2,Low,Corporate,Rep-3,Urgent
+ORD-1100,2023-03-17,Customer 35,South,India,Delhi,Furniture,Table,1352.49,7,10.0,108.05,Medium,Consumer,Rep-4,Returned
+ORD-1101,2023-05-13,Customer 28,North,UK,London,Office Supplies,Binder,1599.86,8,5.0,317.1,Medium,Consumer,Rep-3,Delayed
+ORD-1102,2023-07-06,Customer 59,North,UK,Birmingham,Office Supplies,Binder,2917.84,3,10.0,643.85,Low,Corporate,Rep-1,Urgent
+ORD-1103,2023-10-04,Customer 53,South,USA,New York,Technology,Laptop,1300.7,6,0.0,-172.59,Medium,Corporate,Rep-6,
+ORD-1104,2023-03-30,Customer 33,East,USA,San Francisco,Furniture,Bookcase,1942.05,3,10.0,-185.84,Medium,Home Office,Rep-1,
+ORD-1105,2023-10-10,Customer 45,West,USA,Chicago,Technology,Mobile,163.11,3,5.0,-426.61,Medium,Consumer,Rep-4,Delayed
+ORD-1106,2023-01-14,Customer 4,West,Canada,Vancouver,Office Supplies,Binder,505.8,7,5.0,-193.44,High,Consumer,Rep-3,
+ORD-1107,2023-12-13,Customer 51,North,India,Delhi,Technology,Accessories,1968.0,1,,833.94,Medium,Home Office,Rep-2,
+,2024-01-17,Customer 58,South,UK,Manchester,Furniture,Chair,1702.9,4,,-313.03,Low,Home Office,Rep-6,Urgent
+ORD-1109,2023-07-19,Customer 42,North,Australia,Brisbane,Office Supplies,Paper,1538.65,3,5.0,964.11,Medium,Home Office,Rep-2,Returned
+ORD-1110,2023-12-29,Customer 51,,UK,Birmingham,Technology,Accessories,2302.12,7,0.0,925.74,High,Consumer,Rep-1,Returned
+ORD-1111,2023-10-03,Customer 38,East,USA,New York,Office Supplies,Storage,2088.95,7,5.0,723.77,Medium,Corporate,Rep-7,Returned
+ORD-1112,2023-09-04,Customer 49,East,Australia,Sydney,Technology,Mobile,1948.02,2,0.0,-277.36,Medium,Corporate,Rep-5,Returned
+ORD-1113,2023-09-23,Customer 17,South,India,Bangalore,Furniture,Table,1939.29,2,10.0,470.39,Medium,Corporate,Rep-1,
+ORD-1114,2023-08-15,Customer 42,East,Canada,Vancouver,Office Supplies,Storage,2407.41,3,10.0,-436.97,High,Consumer,Rep-1,Delayed
+ORD-1115,2023-04-20,Customer 30,East,UK,Manchester,Technology,Laptop,834.52,4,5.0,-265.28,Low,Corporate,Rep-2,Delayed
+ORD-1116,2023-10-13,Customer 1,South,Canada,Montreal,Technology,Laptop,1802.84,3,5.0,-201.47,Medium,Consumer,Rep-5,Urgent
+ORD-1117,2023-08-24,Customer 51,West,Canada,Toronto,Technology,Mobile,2011.78,7,10.0,662.1,High,Consumer,Rep-7,Returned
+ORD-1118,2023-06-17,Customer 28,South,UK,London,Technology,Laptop,108.77,4,,-347.83,Medium,Home Office,Rep-5,Returned
+ORD-1119,2023-12-15,Customer 41,East,Canada,Montreal,Furniture,Table,481.55,5,10.0,417.11,Medium,Corporate,Rep-6,Returned
+,2023-01-30,Customer 24,South,Canada,Montreal,Technology,Laptop,1816.2,7,0.0,346.15,Low,Corporate,Rep-1,Delayed
+ORD-1121,2023-02-11,Customer 6,North,Australia,Melbourne,Technology,Laptop,651.58,1,5.0,-192.33,Medium,Home Office,Rep-6,Urgent
+ORD-1122,2023-05-16,Customer 51,North,India,Delhi,Furniture,Chair,1245.52,1,5.0,253.34,High,Corporate,Rep-6,
+ORD-1123,2023-08-25,Customer 16,South,India,Mumbai,Technology,Laptop,2993.14,6,,-396.57,Low,Home Office,Rep-2,Delayed
+ORD-1124,2023-12-13,Customer 44,West,Australia,Brisbane,Office Supplies,Binder,1008.02,3,10.0,-12.44,Medium,Home Office,Rep-5,Urgent
+ORD-1125,2023-10-22,Customer 30,East,Canada,Vancouver,Office Supplies,Binder,681.08,8,,366.61,Low,Consumer,Rep-1,Urgent
+ORD-1126,2023-08-13,Customer 35,South,USA,New York,Furniture,Chair,1872.38,2,10.0,-458.57,Medium,Home Office,Rep-1,Returned
+ORD-1127,2023-08-08,Customer 55,East,UK,Birmingham,Office Supplies,Binder,834.48,9,5.0,-52.75,Low,Consumer,Rep-4,Delayed
+ORD-1128,2023-09-19,Customer 47,North,UK,Manchester,Technology,Laptop,2966.22,5,10.0,161.88,Medium,Consumer,Rep-4,Returned
+ORD-1129,2023-09-26,Customer 11,East,India,Mumbai,Technology,Mobile,2437.96,4,10.0,863.55,Medium,Corporate,Rep-4,Urgent
+ORD-1130,2023-02-07,Customer 15,East,USA,New York,Technology,Laptop,526.66,3,10.0,940.05,High,Corporate,Rep-7,Urgent
+ORD-1131,2023-04-22,Customer 19,East,India,Delhi,Office Supplies,Binder,1403.81,4,,296.68,Medium,Corporate,Rep-3,Delayed
+,2023-06-28,Customer 54,North,UK,Manchester,Technology,Accessories,1282.22,2,0.0,-62.47,High,Corporate,Rep-4,Delayed
+ORD-1133,2023-04-28,Customer 58,East,USA,Chicago,Office Supplies,Paper,2686.1,8,,91.18,Medium,Corporate,Rep-3,
+ORD-1134,2023-10-27,Customer 50,,India,Bangalore,Technology,Mobile,2523.08,5,5.0,307.66,High,Corporate,Rep-6,Delayed
+ORD-1135,2023-08-13,Customer 41,East,India,Bangalore,Office Supplies,Storage,290.7,5,10.0,514.33,Medium,Consumer,Rep-4,Delayed
+ORD-1136,2023-03-18,Customer 24,,USA,New York,Furniture,Chair,2325.27,9,0.0,992.84,High,Corporate,Rep-2,Returned
+ORD-1137,2023-01-30,Customer 27,,UK,London,Technology,Laptop,194.5,3,,913.03,High,Home Office,Rep-6,Urgent
+ORD-1138,2023-05-04,Customer 1,East,Canada,Montreal,Technology,Mobile,2131.27,7,10.0,518.68,Low,Home Office,Rep-7,Returned
+ORD-1139,2023-04-07,Customer 52,,UK,Birmingham,Technology,Laptop,712.93,4,0.0,55.44,Low,Consumer,Rep-4,Urgent
+ORD-1140,2023-09-09,Customer 15,,India,Bangalore,Technology,Accessories,517.1,4,0.0,-499.03,Low,Corporate,Rep-7,Delayed
+ORD-1141,2024-02-02,Customer 5,West,Canada,Vancouver,Office Supplies,Storage,393.83,2,5.0,943.68,High,Corporate,Rep-1,Urgent
+ORD-1142,2024-01-23,Customer 37,,USA,San Francisco,Office Supplies,Storage,2451.16,5,,368.2,High,Corporate,Rep-5,
+ORD-1143,2023-09-25,Customer 44,North,Canada,Vancouver,Office Supplies,Storage,2043.6,7,,727.5,Medium,Consumer,Rep-3,Returned
+,2023-10-25,Customer 15,,USA,San Francisco,Technology,Mobile,1866.38,6,0.0,387.42,High,Home Office,Rep-1,Delayed
+ORD-1145,2023-04-06,Customer 50,East,Australia,Sydney,Technology,Mobile,1664.93,1,,-130.99,High,Corporate,Rep-4,
+ORD-1146,2023-12-03,Customer 28,North,Canada,Vancouver,Office Supplies,Paper,149.18,4,10.0,355.31,Medium,Corporate,Rep-5,Urgent
+ORD-1147,2023-06-23,Customer 49,North,Canada,Vancouver,Office Supplies,Storage,1568.77,9,5.0,908.57,Low,Home Office,Rep-4,Delayed
+ORD-1148,2023-09-18,Customer 14,,UK,Manchester,Office Supplies,Storage,2117.67,7,,826.49,Medium,Corporate,Rep-1,Urgent
+ORD-1149,2023-09-30,Customer 11,,USA,San Francisco,Technology,Accessories,1321.02,3,0.0,907.52,Medium,Consumer,Rep-1,Delayed
+ORD-1150,2023-05-16,Customer 20,West,India,Delhi,Technology,Mobile,2114.95,4,0.0,-219.01,High,Consumer,Rep-6,Returned

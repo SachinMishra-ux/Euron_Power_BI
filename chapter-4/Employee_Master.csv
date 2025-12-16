@@ -1,0 +1,61 @@
+EmployeeID,FullName,Department,Designation,Age,Experience_Years,Region
+E001,Amit Sharma,Sales,Executive,28,3,North
+E002,Neha Verma,Sales,Senior Executive,32,6,North
+E003,Rohit Sinha,Sales,Manager,38,12,West
+E004,Divya Nair,Sales,Executive,26,2,South
+E005,Manoj Gupta,Sales,Executive,29,4,East
+E006,Sonia Reddy,Sales,Senior Executive,31,5,South
+E007,Karan Patel,Sales,Executive,30,3,West
+E008,Anita Rao,Sales,Manager,40,14,East
+E009,Sachin Dixit,Sales,Executive,27,2,North
+E010,Leena Joseph,Sales,Executive,25,1,South
+E011,Rajeev Kumar,Finance,Executive,29,4,North
+E012,Preeti Yadav,Finance,Senior Executive,34,8,North
+E013,Vikas Jain,Finance,Manager,41,15,East
+E014,Shruti Nair,Finance,Executive,27,3,South
+E015,Harish Singh,Finance,Executive,28,4,West
+E016,Namrata Das,Finance,Senior Executive,33,7,East
+E017,Jatin Mehta,Finance,Executive,26,2,West
+E018,Pooja Suri,Finance,Executive,30,5,South
+E019,Yogesh Babu,Finance,Manager,39,13,North
+E020,Rina Desai,Finance,Executive,25,1,East
+E021,Ashish Kumar,HR,Executive,26,2,North
+E022,Mansi Tiwari,HR,Senior Executive,31,7,South
+E023,Rupesh Sharma,HR,Manager,36,10,West
+E024,Simran Kaul,HR,Executive,27,3,East
+E025,Nidhi Shetty,HR,Executive,29,4,South
+E026,Raj Malhotra,HR,Senior Executive,32,8,North
+E027,Sneha Joshi,HR,Executive,25,1,East
+E028,Ankur Sen,HR,Executive,30,3,West
+E029,Ankita Kapoor,HR,Manager,37,11,North
+E030,Hiren Patel,HR,Executive,28,2,South
+E031,Arjun Rao,IT,Executive,27,3,South
+E032,Priya Shah,IT,Senior Executive,33,8,West
+E033,Rohan Gupta,IT,Manager,39,13,North
+E034,Deepika Jain,IT,Executive,26,2,East
+E035,Raj Shah,IT,Executive,30,4,North
+E036,Megha Thakur,IT,Senior Executive,32,6,South
+E037,Kunal Soni,IT,Executive,29,3,West
+E038,Anisha Paul,IT,Executive,28,3,East
+E039,Sumeet Roy,IT,Manager,40,14,South
+E040,Surbhi Mehta,IT,Executive,25,2,North
+E041,Varun Singh,Operations,Executive,27,3,East
+E042,Shalini Nair,Operations,Senior Executive,34,9,South
+E043,Prateek Joshi,Operations,Manager,38,12,West
+E044,Meena Trivedi,Operations,Executive,26,2,North
+E045,Tarun Kalra,Operations,Executive,29,4,South
+E046,Jennifer Dsouza,Operations,Senior Executive,33,7,East
+E047,Naman Goyal,Operations,Executive,28,3,West
+E048,Shreya Rao,Operations,Executive,25,1,South
+E049,Kartik Ahuja,Operations,Manager,41,15,North
+E050,Sonali Jain,Operations,Executive,27,2,East
+E051,Ritika Saha,Marketing,Executive,26,2,South
+E052,Ashok Mehra,Marketing,Senior Executive,32,7,North
+E053,Deepak Rana,Marketing,Manager,39,14,West
+E054,Harshini Iyer,Marketing,Executive,27,3,East
+E055,Naveen Yadav,Marketing,Executive,29,4,North
+E056,Esha Kaur,Marketing,Senior Executive,31,6,South
+E057,Virat Patil,Marketing,Executive,25,1,West
+E058,Ria D’Souza,Marketing,Executive,26,2,North
+E059,Aditya Singh,Marketing,Manager,40,15,East
+E060,Neeraj Taneja,Marketing,Executive,28,3,South
